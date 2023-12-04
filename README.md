@@ -13,7 +13,7 @@ a votre racine.
 ### Exercice par Exercice
 ```./Quoicoulinette_cXX YY```
 
-XX = numéro du day 0
+XX = numéro du day
 
 YY = numéro de l'exercice
 
