@@ -11,7 +11,7 @@ Déplacez le dossier Quoicoulinette_cXX de votre choix dans votre cXX, puis lanc
 ```make -C Quoicoulinette_cXX```
 a votre racine.
 ### Exercice par Exercice
-./Quoicoulinette_cXX YY
+```./Quoicoulinette_cXX YY```
 
 XX = numéro du day 0
 
