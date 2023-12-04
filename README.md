@@ -12,7 +12,9 @@ Déplacez le dossier Quoicoulinette_cXX de votre choix dans votre cXX, puis lanc
 a votre racine.
 ### Exercice par Exercice
 ./Quoicoulinette_cXX YY
+
 XX = numéro du day 0
+
 YY = numéro de l'exercice
 
 ## Explications
